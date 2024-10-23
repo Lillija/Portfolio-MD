@@ -1,0 +1,27 @@
+body{
+background-color: black;
+
+}
+h1 {
+    color: rgb(158, 1, 1);
+}
+
+
+ul {
+    list-style: none;
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+img {
+    width: 100px;
+    object-fit: cover;
+    border-radius: 100px;
+}
+ol{
+    color: white;
+}
